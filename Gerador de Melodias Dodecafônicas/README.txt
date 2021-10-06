@@ -1,0 +1,1 @@
+O código foi feito utilizando a linguagem C e é necessária uma máquina com o sistema operacional Windows para executá-lo.
